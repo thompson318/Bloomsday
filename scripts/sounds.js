@@ -8,9 +8,9 @@ const sounds_02 = [ 'sounds/02_nr_panned.mp3', 'sounds/02_panned.mp3' ]
 allsounds.push(sounds_02)
 const sounds_03 = [ 'sounds/03_nr_panned.mp3', 'sounds/03_panned.mp3' ]
 allsounds.push(sounds_03)
-const sounds_04 = [ 'sounds/04_nr_panned.mp3', 'sounds/04_panned.mp3' 'sounds/04_st_panned.mp3' ]
+const sounds_04 = [ 'sounds/04_nr_panned.mp3', 'sounds/04_panned.mp3', 'sounds/04_st_panned.mp3' ]
 allsounds.push(sounds_04)
-const sounds_05 = [ 'sounds/05_nr_panned.mp3', 'sounds/05_panned.mp3' 'sounds/05_st_panned.mp3' ]
+const sounds_05 = [ 'sounds/05_nr_panned.mp3', 'sounds/05_panned.mp3', 'sounds/05_st_panned.mp3' ]
 allsounds.push(sounds_05)
 const sounds_06 = [ 'sounds/06_panned.mp3' ]
 allsounds.push(sounds_06)
