@@ -26,5 +26,19 @@ $(document).ready(function() {
 
     $el.ripples('drop', x, y, dropRadius, strength);
   }, 400);
+
+  // automatic with trajectory (meant to simulate a mouse drag
+  setInterval(function() {
+    var $el = $('body');
+    var x = Math.random() * $el.outerWidth();
+    var y = Math.random() * $el.outerHeight();
+    var dropRadius = 10;
+    var strength = 0.0010 + Math.random() * 0.0010;
+    for ( let my_x = x;  my_x < x+50; my_x ++){
+	console.log('shooting' , my_x)
+    	$el.ripples('drop', my_x, y, dropRadius, strength);
+    }
+  }, 400);
+
 });
 
