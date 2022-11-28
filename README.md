@@ -23,7 +23,7 @@ Participate
 
 I'd like to add more voices both human and synthesised, creating a collaboration between humans and machines. 
 At the time of writing the text is read mainly by machine, [pico2wave](https://www.openhab.org/addons/voice/picotts/), with stereo effects added using
-[ffmpeg](https://ffmpeg.org/). To add your voice to the mix please pick a line from those below, record yourself (or your computer) reading it and send it by [email](mailto:s.thompson@ucl.ac.uk) or [twitter](https://twitter.com/intent/tweet?screen_name=stevedoscience). All recordings will be released under a [creative commons 4.0 license](https://creativecommons.org/licenses/by/4.0/). If multiple voices are available for the same line, then one voice is randomly picked on each repeat run. You can turn off the human voices with the html option ?nohumans
+[ffmpeg](https://ffmpeg.org/). To add your voice to the mix please pick a line (or several lines) from those below, record yourself (or your computer) reading it and send it by [email](mailto:s.thompson@ucl.ac.uk) or [twitter](https://twitter.com/intent/tweet?screen_name=stevedoscience) (one line per file). All recordings will be released under a [creative commons 4.0 license](https://creativecommons.org/licenses/by/4.0/). If multiple voices are available for the same line, then one voice is randomly picked on each repeat run. You can turn off the human voices with the html option ?nohumans
 
 | Number | Script |
 |--------|--------|
