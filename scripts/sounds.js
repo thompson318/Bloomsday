@@ -12,19 +12,19 @@ const sounds_04 = [ 'sounds/04_nr_panned.mp3', 'sounds/04_panned.mp3', 'sounds/0
 allsounds.push(sounds_04)
 const sounds_05 = [ 'sounds/05_nr_panned.mp3', 'sounds/05_panned.mp3', 'sounds/05_st_panned.mp3' ]
 allsounds.push(sounds_05)
-const sounds_06 = [ 'sounds/06_panned.mp3' ]
+const sounds_06 = [ 'sounds/06_mt_m_panned.mp3', 'sounds/06_panned.mp3' ]
 allsounds.push(sounds_06)
-const sounds_07 = [ 'sounds/07_panned.mp3' ]
+const sounds_07 = [ 'sounds/07_mt_m_panned.mp3', 'sounds/07_panned.mp3' ]
 allsounds.push(sounds_07)
 const sounds_08 = [ 'sounds/08_panned.mp3' ]
 allsounds.push(sounds_08)
 const sounds_09 = [ 'sounds/09_panned.mp3', 'sounds/09_st_panned.mp3' ]
 allsounds.push(sounds_09)
-const sounds_10 = [ 'sounds/10_panned.mp3' ]
+const sounds_10 = [ 'sounds/10_jh_panned.mp3', 'sounds/10_panned.mp3' ]
 allsounds.push(sounds_10)
 const sounds_11 = [ 'sounds/11_panned.mp3' ]
 allsounds.push(sounds_11)
-const sounds_12 = [ 'sounds/12_panned.mp3' ]
+const sounds_12 = [ 'sounds/12_jh_panned.mp3', 'sounds/12_panned.mp3' ]
 allsounds.push(sounds_12)
 const sounds_13 = [ 'sounds/13_panned.mp3' ]
 allsounds.push(sounds_13)
@@ -36,9 +36,9 @@ const sounds_16 = [ 'sounds/16_panned.mp3' ]
 allsounds.push(sounds_16)
 const sounds_17 = [ 'sounds/17_nr_panned.mp3', 'sounds/17_panned.mp3' ]
 allsounds.push(sounds_17)
-const sounds_18 = [ 'sounds/18_panned.mp3' ]
+const sounds_18 = [ 'sounds/18_ht_panned.mp3', 'sounds/18_panned.mp3' ]
 allsounds.push(sounds_18)
-const sounds_19 = [ 'sounds/19_panned.mp3' ]
+const sounds_19 = [ 'sounds/19_mt_m_panned.mp3', 'sounds/19_panned.mp3' ]
 allsounds.push(sounds_19)
 const sounds_20 = [ 'sounds/20_panned.mp3' ]
 allsounds.push(sounds_20)
@@ -54,7 +54,7 @@ const sounds_25 = [ 'sounds/25_panned.mp3' ]
 allsounds.push(sounds_25)
 const sounds_26 = [ 'sounds/26_nr_panned.mp3', 'sounds/26_panned.mp3' ]
 allsounds.push(sounds_26)
-const sounds_27 = [ 'sounds/27_nr_panned.mp3', 'sounds/27_panned.mp3' ]
+const sounds_27 = [ 'sounds/27_jh_panned.mp3', 'sounds/27_nr_panned.mp3', 'sounds/27_panned.mp3' ]
 allsounds.push(sounds_27)
 const sounds_28 = [ 'sounds/28_panned.mp3' ]
 allsounds.push(sounds_28)
