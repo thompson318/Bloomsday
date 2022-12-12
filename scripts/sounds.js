@@ -14,9 +14,9 @@ const sounds_05 = [ 'sounds/05_nr_panned.mp3', 'sounds/05_panned.mp3', 'sounds/0
 allsounds.push(sounds_05)
 const sounds_06 = [ 'sounds/06_mt_m_panned.mp3', 'sounds/06_panned.mp3' ]
 allsounds.push(sounds_06)
-const sounds_07 = [ 'sounds/07_mt_m_panned.mp3', 'sounds/07_panned.mp3' ]
+const sounds_07 = [ 'sounds/07_ct_m_panned.mp3', 'sounds/07_mt_m_panned.mp3', 'sounds/07_panned.mp3' ]
 allsounds.push(sounds_07)
-const sounds_08 = [ 'sounds/08_panned.mp3' ]
+const sounds_08 = [ 'sounds/08_ct_m_panned.mp3', 'sounds/08_panned.mp3' ]
 allsounds.push(sounds_08)
 const sounds_09 = [ 'sounds/09_panned.mp3', 'sounds/09_st_panned.mp3' ]
 allsounds.push(sounds_09)
@@ -78,13 +78,13 @@ const sounds_37 = [ 'sounds/37_nr_panned.mp3', 'sounds/37_panned.mp3' ]
 allsounds.push(sounds_37)
 const sounds_38 = [ 'sounds/38_nr_panned.mp3', 'sounds/38_panned.mp3' ]
 allsounds.push(sounds_38)
-const sounds_39 = [ 'sounds/39_panned.mp3' ]
+const sounds_39 = [ 'sounds/39_ct_m_panned.mp3', 'sounds/39_panned.mp3' ]
 allsounds.push(sounds_39)
 const sounds_40 = [ 'sounds/40_nr_panned.mp3', 'sounds/40_panned.mp3' ]
 allsounds.push(sounds_40)
 const sounds_41 = [ 'sounds/41_panned.mp3' ]
 allsounds.push(sounds_41)
-const sounds_42 = [ 'sounds/42_nr_panned.mp3', 'sounds/42_panned.mp3' ]
+const sounds_42 = [ 'sounds/42_jt_m_panned.mp3', 'sounds/42_nr_panned.mp3', 'sounds/42_panned.mp3' ]
 allsounds.push(sounds_42)
 //This file will not run on it's own, to make the runnable version use
 //bash utilities/createSoundArrays.bash > scripts/sounds.js
